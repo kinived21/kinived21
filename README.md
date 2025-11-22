@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is **Ved Narayan Kini**, and I'm an **Aspiring Android App Developer** based in **Palghar** , **Mumbai**, India.</p>
+<p align="left">My name is **[Ved Narayan Kini]**, and I'm an **[Aspiring Android App Developer]** based in **[Palghar]** , **[Mumbai]**, India.</p>
 
 ###
 
