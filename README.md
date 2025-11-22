@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is **[Ved Narayan Kini]**, and I'm an **[Aspiring Android App Developer]** based in **[Palghar]** , **[Mumbai]**, India.</p>
+<p align="left">My name is Ved Narayan Kini, and I'm an Aspiring Android App Developer based in Palghar , Mumbai, India.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ **Background:** Computer Engineering Diploma graduate from H.J.Thim Trust, Theem College of Engineering.<br>📚 **I'm currently learning:** Android App Development using **Kotlin** and Jetpack Compose.<br>🎯 **Goals:** Build a strong portfolio of production-ready mobile apps and enroll in a **B.Tech program (2026)**.<br>🎲 **Fun fact:** I am also a video editor and content creator, which helps me focus on UI/UX detail!</p>
+<p align="left">✨ Background: Computer Engineering Diploma graduate from H.J.Thim Trust, Theem College of Engineering.<br>📚 I'm currently learning: Android App Development using Kotlin.<br>🎯 Goals: Build a strong portfolio of production-ready mobile apps and enroll in a B.Tech program (2026).<br>🎲 Fun fact: I am also a video editor and content creator, which helps me focus on UI/UX detail!</p>
 
 ###
 
